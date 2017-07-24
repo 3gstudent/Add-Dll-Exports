@@ -1,6 +1,8 @@
 # DllExport
 Use to generate DLL through Visual Studio
 
-DllExport(Def)
+**Two methods:**
 
-DllExport(declspec)
+- DllExport(Def)
+
+- DllExport(declspec)
